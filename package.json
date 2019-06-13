@@ -24,7 +24,7 @@
   "devDependencies": {
     "prettier": "^1.16.4",
     "tailwindcss": "^0.7.4",
-    "gatsby-transformer-sqip": "^2.0.25"
+    "gatsby-transformer-sqip": "^2.0.42"
   },
   "keywords": [
     "gatsby"
