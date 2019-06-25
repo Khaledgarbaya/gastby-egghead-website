@@ -4745,10 +4745,10 @@ gatsby-cli@^2.5.4:
     yargs "^12.0.5"
     yurnalist "^1.0.2"
 
-gatsby-image@^2.0.34:
-  version "2.0.36"
-  resolved "https://registry.yarnpkg.com/gatsby-image/-/gatsby-image-2.0.36.tgz#4b97b559389c0bf7ad5ca2755905ec4b95e2ccb9"
-  integrity sha512-Uyu1U/qtCO+MbgH1rZSLf9+OIlk/PDfl4f6kAM6d/ncPJhZjOyoWI05Q22dd6Oe47ojYmJu7PNGaHzq9mWKdOQ==
+gatsby-image@^2.2.3:
+  version "2.2.3"
+  resolved "https://registry.yarnpkg.com/gatsby-image/-/gatsby-image-2.2.3.tgz#568342b3254d40fa1ae8150991bb96ca63cad463"
+  integrity sha512-FRmKHkbvbJXYzdjxWaTr0Btm3yZCIFiEMXPf6VFTCaMGXzRUW30mCpaffqy10frpr9769zZC55LT01k4VHKaBA==
   dependencies:
     "@babel/runtime" "^7.0.0"
     object-fit-images "^3.2.4"
